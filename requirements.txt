@@ -1,0 +1,4 @@
+selenium
+selenium-findtext
+pytest
+pytest-dotenv
